@@ -8,7 +8,7 @@
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>9B5WD74GWJ.group.com.owncloud.iOSmobileapp</string>
+		<string>group.com.owncloud.iOSmobileapp</string>
 	</array>
 </dict>
 </plist>
